@@ -4,6 +4,8 @@ A FiveM resource that utilizes Oxlib to provide an `/eup` command for bringing u
 
 ![eup-ui Menu](https://github.com/Zaps6000/eup-ui/assets/122732007/c4316ead-11c0-44d6-b09a-342910cba7ed.png)
 
+[Download](https://github.com/Zaps6000/eup-ui) Or [Direct Download](https://github.com/Zaps6000/eup-ui/archive/refs/tags/v1.zip)
+
 ## Features
 - `/eup` command to access the menu
 - Editable `outfits.json` for outfit customization
@@ -17,6 +19,8 @@ A FiveM resource that utilizes Oxlib to provide an `/eup` command for bringing u
 
 ## Configuration
 Edit the `outfits.json` file to add or modify outfits.
+install [oxlib](https://github.com/overextended/ox_lib)
+
 
 ## 📫 Contact
 For issues, feature requests, and contributions, feel free to [open an issue](https://github.com/Zaps6000/eup-ui/issues) or join our Discord server: [discord.gg/cfxdev](https://discord.gg/cfxdev).
