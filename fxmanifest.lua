@@ -3,7 +3,7 @@ games { 'gta5' }
 lua54 'yes'
 author 'Zaps6000'
 
-local uniformFile = 'oufits.json'
+local uniformFile = 'outfits.json'
 
 file(uniformFile)
 uniform_file(uniformFile)
