@@ -23,7 +23,7 @@ install [oxlib](https://github.com/overextended/ox_lib)
 
 
 ## 📫 Contact
-For issues, feature requests, and contributions, feel free to [open an issue](https://github.com/Zaps6000/eup-ui/issues) or join our Discord server: [discord.gg/cfxdev](https://discord.gg/cfxdev).
+For issues, feature requests, and contributions, feel free to [open an issue](https://github.com/Zaps6000/eup-ui/issues) or join our Discord server: [Discord](https://syncstudio.org/discord).
 
 ## View Counter
 ![View Counter](https://views.whatilearened.today/views/github/Zaps6000/eup-ui.svg)
